@@ -1,0 +1,1806 @@
+{
+  "data": {
+    "swaps": [
+      {
+        "amount0In": "0",
+        "amount0Out": "45206.905418579259826458",
+        "amount1In": "23.836794048760846532",
+        "amount1Out": "0",
+        "id": "0xc88a5dd899922d838f161ebbb745b31687f527ecfc8c78a5fef221227ca4475d-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381899"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "949.503658487305115528",
+        "amount1In": "0.5",
+        "amount1Out": "0",
+        "id": "0x351b661f7f8c82b9911bec1f79c84fbc3f925af480ee6ea9727748cd670017a3-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381882"
+      },
+      {
+        "amount0In": "561.485167257935213419",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.293898372142453034",
+        "id": "0xf5d0e244676dd182f12a1b083e2cf8e95c3230f655b792d83a87c73e6350ffd8-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381844"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "5164.815466376530613402",
+        "amount1In": "2.719358082579711158",
+        "amount1Out": "0",
+        "id": "0xd205af5c948dfc4eff303d3fb3e59a8da3460814ed152407942f934b49847643-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381826"
+      },
+      {
+        "amount0In": "57255.019490031343463799",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "30.009478007366366437",
+        "id": "0x69028689e14552d5619e824375ac9d39039c10bb93933349c640dcdb85fbe0a6-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381791"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "41324.640459129707562334",
+        "amount1In": "21.8",
+        "amount1Out": "0",
+        "id": "0x6d245308aea8473c7bf810518e47dc61b1c47c6f508db6ed1870409f1533953b-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381775"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "62837.532099417216843468",
+        "amount1In": "33.05060699668881539",
+        "amount1Out": "0",
+        "id": "0x127a656024aa03a89f351960ff24e69d4353acd4d984cb4feecf730e0ea6dce5-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381729"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "647.628462376446176153",
+        "amount1In": "0.340019362389819392",
+        "amount1Out": "0",
+        "id": "0xd4ee8face00cbdbd0ac7ae1e0ca7c2e9dd5686851b76bdcbe9ff1564056fab41-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381725"
+      },
+      {
+        "amount0In": "500",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.26096274970303822",
+        "id": "0xce0206696251366c423e1103ec8943dafdaa1b65478f74bc21fa95298054f09c-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381646"
+      },
+      {
+        "amount0In": "500",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.26097013959310196",
+        "id": "0x69b942a7ec3410ee21a5b6c0b3453c5b96eb13af9409e750a239e2d14767a15b-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381646"
+      },
+      {
+        "amount0In": "1719.651539915926270099",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.897473624859552509",
+        "id": "0x23304850f3957eba4a01ba4230b8df3f73231f218ac56f29cb26a59e74cb6f19-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381646"
+      },
+      {
+        "amount0In": "1992.200095647353366391",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "1.039882927386927752",
+        "id": "0x389d75cb03def27afbae1fa0be87ddb39d0ff84273ddeda63e5fc6ca6c8fd502-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381622"
+      },
+      {
+        "amount0In": "3714.154232713422304361",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "1.939017110163324104",
+        "id": "0x7121bcc2716b965c5842e70a2b313adb4d7063e2f8b252a1670c2c87a49e1f05-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381587"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "42530.553119306137782489",
+        "amount1In": "22.312737397295029595",
+        "amount1Out": "0",
+        "id": "0xc91601b56562ddd3a4b4ecab8f90620646266cb0762e38298dd119152c59c568-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381492"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "38640.445963890429390861",
+        "amount1In": "20.22524308517976437",
+        "amount1Out": "0",
+        "id": "0x2cf39e163d949924b394b8fb16413e132ab1bbee84d8b3063e8f93d61c2b3544-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381322"
+      },
+      {
+        "amount0In": "600",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.311835384334687872",
+        "id": "0xe929f3d6203948cc16b9944589e87614c96a32f092ed1236a77abba52b23d1d0-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381320"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "687.017983371346818178",
+        "amount1In": "0.359211982097743872",
+        "amount1Out": "0",
+        "id": "0xad99ebf4708a311c7891a125cbf6b4901fd00285072cc847ede8956c4fde8477-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381293"
+      },
+      {
+        "amount0In": "67997.315234287591329305",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "35.467311316085848888",
+        "id": "0x7aa187995717b18a2f09e7f272edc97840aa2477b77daffdced3ccfa61f5128d-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381246"
+      },
+      {
+        "amount0In": "29920.966370946873011447",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "15.563529561183630334",
+        "id": "0x3d223ecb86e50db6499f546aa7bcbb5bbfce9b5020feca8ec29656c19293ec4e-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381246"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "427.397460509820368266",
+        "amount1In": "0.224702321181327669",
+        "amount1Out": "0",
+        "id": "0xba7b1edc53536be58ef7566fd45f61de08d38d85d85bcc3665905b77c889e1ee-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381217"
+      },
+      {
+        "amount0In": "20000",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "10.457725168599896656",
+        "id": "0xfd32b119df75ff7f93287c54117c488d5f5114cdc36296276e5e8c4031d82951-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381199"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "1498.918966315601379944",
+        "amount1In": "0.788900709310856849",
+        "amount1Out": "0",
+        "id": "0xef54266ed2ef05a655379ffb4bfd73ac890578ad78aaa250c2e1d40492541738-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381191"
+      },
+      {
+        "amount0In": "207.264116864471392872",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.108428313023510182",
+        "id": "0xfd7b218eb105b6e0f50b92a61002c05a7b8a9a563e48a2c47212901a3eea93b2-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381173"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "32036.293614457908929828",
+        "amount1In": "16.845233346636277405",
+        "amount1Out": "0",
+        "id": "0x23599658c066d4e10166bcd800f60a25de44a6d49170942dd4557c1f212c8cf9-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381152"
+      },
+      {
+        "amount0In": "20000",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "10.449768869030852391",
+        "id": "0x0efb5ae992a4fb606c1e9e7ee9de24611569e998ffdc8254cd2420b656d7d640-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381152"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "1922.487658340169828231",
+        "amount1In": "1.010826082718739769",
+        "amount1Out": "0",
+        "id": "0x836ded3b0d44eed8c75bc7454ba7dd72256739ae7ed90a627a6edff4ff157bcf-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381054"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "4863.121709009804608024",
+        "amount1In": "2.557332006945575334",
+        "amount1Out": "0",
+        "id": "0x576efff41084b7ba3b33ccfef2a4d989f21d2e5ac010c434a69831bd066d56e2-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381054"
+      },
+      {
+        "amount0In": "1000",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.522597362405601318",
+        "id": "0xd81f226780de1db10e0fd53312cc318219cd99b412597c5ac93a60d4468e255a-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381048"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "1184.52694721546888046",
+        "amount1In": "0.622758246123937933",
+        "amount1Out": "0",
+        "id": "0x9b99039c205165b0a0125ac5832f3132ba943bf88bc3473b870205f07b7e4e76-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624381033"
+      },
+      {
+        "amount0In": "1478.4671342695134226",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.772645280061936173",
+        "id": "0x35ebb46b856422cc0befca09d36b86b56bb3189e645b774b7f9d724356ebc893-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380969"
+      },
+      {
+        "amount0In": "20000",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "10.458350917358288582",
+        "id": "0x0df178d2fe0e9d432d1f12cfa782feb2b83a0829a3a4e1547fb34b5e001f4780-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380969"
+      },
+      {
+        "amount0In": "50815.25193657461120385",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "26.625650150189734027",
+        "id": "0x35d2ca6d933ef678eab5b9e502c8dc39f5292d7061f81d8ae74af1c98ff0d582-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380944"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "180.171557683092094607",
+        "amount1In": "0.09510975",
+        "amount1Out": "0",
+        "id": "0x25b897b3c94318361dc03800b7bfbfdc708b253d18d19c5ef5d8dab429c7287b-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380853"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "5134.912528298568014247",
+        "amount1In": "2.710229271820025436",
+        "amount1Out": "0",
+        "id": "0xe28572d83ff7e7a7c0762c2a207a32f1226bde26f3359a4553b749739c50b887-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380782"
+      },
+      {
+        "amount0In": "55986.000424707385581968",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "29.415157976385842598",
+        "id": "0xf0a062d7fd353d7e072f891c4d90f3ff529204484a2d1842df1fc1619c1d80c5-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380759"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "1478.4671342695134226",
+        "amount1In": "0.782680547054517459",
+        "amount1Out": "0",
+        "id": "0x3770109697bd1b8cec68c7e3cea4119922c9666993930b6311f6177540b75394-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380605"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "249.555144129320395636",
+        "amount1In": "0.132104621657337999",
+        "amount1Out": "0",
+        "id": "0x97fa99ca4e476dcba9342de9f1545f936d6e99c02cd7d268b07e68bcc555b866-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380506"
+      },
+      {
+        "amount0In": "68111.612755765395355799",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "35.908976200434508624",
+        "id": "0x2d0fc1d47ccbba2022bfe20b26f42a644c3fcc1d99f8906dea3f96297a2312df-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380418"
+      },
+      {
+        "amount0In": "0.000000697826142939",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.000000000368612205",
+        "id": "0x2c19df8642bbd873baa8b826438d6b704be5868e9776d99da035a37b1b53aa72-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380410"
+      },
+      {
+        "amount0In": "245",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.129417079950766033",
+        "id": "0xe3bb5621dd65f3fefd967e9959b65f66403f11e2bef47bc93a93f103ce11d0c0-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380310"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "29.716837500328258435",
+        "amount1In": "0.015792120252209748",
+        "amount1Out": "0",
+        "id": "0xfa53073fbe639666217b2257ace2f68b76581ccecf47996ef1b893dfb1b502cf-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380309"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "63631.83989093215707193",
+        "amount1In": "33.753736273486603152",
+        "amount1Out": "0",
+        "id": "0x18cc03a99b1bcbe24521922396b899b69b3984af8cb6f1949d516e9d5ed7f011-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380219"
+      },
+      {
+        "amount0In": "174.432386439229160818",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.091807724631024434",
+        "id": "0x5ee91a8457401957ce37b1bcd9f222cf6b29323078e27733b2fe6e1eafcc01c9-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380216"
+      },
+      {
+        "amount0In": "2042.120164287677572132",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "1.074882036365560221",
+        "id": "0x0f1009e747dbdbdecf7cbc5386edc23920310dde6103034a6feb1bd90ad32c98-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380208"
+      },
+      {
+        "amount0In": "600",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.315837262185580806",
+        "id": "0x972d6def8f4a42296fa9da9b17cc2400a08c06e694bf9b81e2db32c0bbc6075b-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380159"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "6106.661625679918691574",
+        "amount1In": "3.233384095935624935",
+        "amount1Out": "0",
+        "id": "0xf4ab9d120ed99d75b2cd9039009e8863f6ac7ae98ded4c5a51fefae8655eb637-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380143"
+      },
+      {
+        "amount0In": "11807.89924",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "6.215655330490629945",
+        "id": "0xd45ebc162ac9ddc35143476ccde0d1fac68b465faad985be451928610298a77d-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380143"
+      },
+      {
+        "amount0In": "36516.172193109424337497",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "19.24851127249930775",
+        "id": "0x4a5e107256c2bbea6dd6d729a0fc03deb1de8c93e9a7be210912ee44ee10c858-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380073"
+      },
+      {
+        "amount0In": "2049",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "1.081259344970501047",
+        "id": "0x6e12f14103eb34d2019e346f682c9f9973481b8b78cd17b32403c4e79a2df932-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624380021"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "60146.949900612512131646",
+        "amount1In": "31.877920400892991193",
+        "amount1Out": "0",
+        "id": "0x49bf6744a63ecc3ec9c43de35c47fbcf59d59294aa2ae7c7ea1f5000c9da3a70-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379923"
+      },
+      {
+        "amount0In": "6152.333048055380900704",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "3.236222046028126064",
+        "id": "0x5a1e63365abfdd8fbcfe7c92a92917fe4bcc33305a6a4d9d7bfd201e4ea9e859-2",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379784"
+      },
+      {
+        "amount0In": "55106.880883119870294404",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "29.037695103390995293",
+        "id": "0x0843020a4e6795b6d973ea801a45c778d20b7884b79359d39890b5ff8239f815-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379784"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "10976.855643578451851616",
+        "amount1In": "5.826229014593840635",
+        "amount1Out": "0",
+        "id": "0xfeab357e2781810fdd5c0e21f08fe90c564779f73027acc5581fda62beb56027-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379783"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "6041.489801943233793705",
+        "amount1In": "3.205108167461662124",
+        "amount1Out": "0",
+        "id": "0x7b0c85d28e59360188dd91c064d879f2476380f42e90edce158383973fc7b457-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379736"
+      },
+      {
+        "amount0In": "59474.165833585729488313",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "31.410829693504155257",
+        "id": "0x5673d0eb97235ed40e6935b590e9ecdc23c1662a298c0a373cdeff7fe1a1eb40-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379736"
+      },
+      {
+        "amount0In": "5000",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "2.64556073433195285",
+        "id": "0x77478340a872a5f813abe89401df36e903e1921ca7ee8594aae6cb5e137e12c4-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379659"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "55481.79206556421014947",
+        "amount1In": "29.490361256292997872",
+        "amount1Out": "0",
+        "id": "0x3531db00af279e1dd7339a1152cc7472af5fb6a3334abab1452461729c3e7632-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379620"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "46265.990189598625714091",
+        "amount1In": "24.520520041899481259",
+        "amount1Out": "0",
+        "id": "0x109dd8e40519079f179a4c89c85d8ebabfb9b5ac235098e84bf0187a3cec2485-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379613"
+      },
+      {
+        "amount0In": "399.609778818253032913",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.210245477177185626",
+        "id": "0x277c4756fbc88703bd0004d7f47369b0f69cf2263a7a3448ea234231310a48a4-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379549"
+      },
+      {
+        "amount0In": "369.533619495194456994",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.194425850466200862",
+        "id": "0x61cefe6af860a4cb5bef81ece06bf04fe978e573b90967c91f88f384e2506406-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379530"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "56291.109986240908777098",
+        "amount1In": "29.757646698480490173",
+        "amount1Out": "0",
+        "id": "0xe4d2bc3a016eccc98a18fb6c66b7daad8be54bbaed4694346aaec16f6a435b8c-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379498"
+      },
+      {
+        "amount0In": "5759.907996500965960219",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "3.031038065868605994",
+        "id": "0x0d153e7a93808c9ad1c9df7ce43aba40eaed528d8fe84e41d3aa4fb5dbdb7879-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379498"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "25915.778756576565741889",
+        "amount1In": "13.617526671666157116",
+        "amount1Out": "0",
+        "id": "0xc4254a77772b6c03602c78f5a47ae75aa8bae851fea09eb61cda5f1d79e6bc01-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379464"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "67079.808601170674382127",
+        "amount1In": "35.340580940821953751",
+        "amount1Out": "0",
+        "id": "0x89bbcf4808819ed8715b0e7ad254e781a1ea8f770e0e7245d2085a2dad0c36c5-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379464"
+      },
+      {
+        "amount0In": "1982.5",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "1.04013827512346532",
+        "id": "0x49deac7306bc16540cc737b9e25245a0ed04146f6ac8ec1d7234506f9cd11bf7-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379464"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "12693.945569665503979593",
+        "amount1In": "6.662764878885897023",
+        "amount1Out": "0",
+        "id": "0xb1fbc74a2ad2bcb285e1cfe289272838ebfda86077a4b929aa85a66573728700-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379399"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "38159.21730180951818284",
+        "amount1In": "20",
+        "amount1Out": "0",
+        "id": "0x121ce0ff1b564529d62a709f94cc9fab727a5753b7a797198bd5b3d4a2cbe030-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379396"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "62239.649989629734020859",
+        "amount1In": "32.528270268602796894",
+        "amount1Out": "0",
+        "id": "0xdeb0f874450af8447b960bb4dfc6c41d90c62256a9a5c6d80bae26892617534e-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379319"
+      },
+      {
+        "amount0In": "10000",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "5.187308907385571254",
+        "id": "0x4b42974c785ef780261303f4f3cdd5ddaf86e7ece4ceb97fcd59ed3be099f91d-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379297"
+      },
+      {
+        "amount0In": "1000",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.518891811879177969",
+        "id": "0x8cb29ccd811b89553f6c18ae2c5bf940543caed342e6b713fac9edaaf82da5bf-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624379182"
+      },
+      {
+        "amount0In": "2250",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "1.167613786314849083",
+        "id": "0x687e1d5369d31442abeb9a80f181c9a91415781bc602307aec336c876d87ba21-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378865"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "15132.929359665304174546",
+        "amount1In": "7.897516654222316866",
+        "amount1Out": "0",
+        "id": "0x79606ff797b2612392c716d53d9ed8c23cfd5a67f8efc8d7d3b0ddde5d471a07-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378745"
+      },
+      {
+        "amount0In": "174241.712429418914481201",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "90.796177235399056398",
+        "id": "0x55b6f95fc4cc5656b8fbc1d4f449f212d86aa920cc42c4855354f6a4f967e4a1-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378745"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "1187.125559159921375993",
+        "amount1In": "0.625380120470641622",
+        "amount1Out": "0",
+        "id": "0xea026b22c76ef15ff8c641690cfd613e753fd251bcc9ffd5d3cedebfb466ba53-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378726"
+      },
+      {
+        "amount0In": "1000",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.523643148284410086",
+        "id": "0xc2e79433cd6c9d38dfbb98ebbb064f0552240a78d5f722d838c9bf50c0d85137-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378713"
+      },
+      {
+        "amount0In": "1126.119865211717027422",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.589720501962428529",
+        "id": "0xf810a542329a7335d861f7ba1982cf6680e66f4049d618efff6aedab302414ca-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378622"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "319.853378446974202965",
+        "amount1In": "0.1685125",
+        "amount1Out": "0",
+        "id": "0x18da1c9c5133072fa9b8e7397d4b913846b77e217d8b2899867bd723d0fe589b-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378594"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "496.921238584910377161",
+        "amount1In": "0.261779381823414662",
+        "amount1Out": "0",
+        "id": "0xdabcbbb9fae92e3f427e93d178a0d9b20f4dc5a07efc298a4d89fcc8eb26d7e8-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378590"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "939.65295436206502174",
+        "amount1In": "0.495031797657706731",
+        "amount1Out": "0",
+        "id": "0x73d57ce7be2f7808c50f77fea2cdf53f8f33b2bcc4206421979852b1e715a97d-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378590"
+      },
+      {
+        "amount0In": "6128.804402616838680399",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "3.209840203091653346",
+        "id": "0x779200f055b4894de58de60a4a7d360994c4145a361a2540d57bcf20b616af16-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378585"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "3435.012922615312276792",
+        "amount1In": "1.81",
+        "amount1Out": "0",
+        "id": "0x59d6a2d65bafe00e5a23293278b2d791c01e030bf36f5b638606fe338fb9dd2b-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378585"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "55461.20524812156455244",
+        "amount1In": "29.175053107440707249",
+        "amount1Out": "0",
+        "id": "0x676fbb09cd1ba284341b43800eef1e144865fb658f24da357c465b52d90e2f5c-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378561"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "5111.543055424569994994",
+        "amount1In": "2.684280049225603408",
+        "amount1Out": "0",
+        "id": "0xfb91d819c5da41ce261552d082099a8cd73ee6132b5ac0b8999fb9202538b270-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378474"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "1160.650038791134670776",
+        "amount1In": "0.609396316959435872",
+        "amount1Out": "0",
+        "id": "0xd2141f766481ffa2b3ed95ba3b75ad691f4ce92c65494d34941d37e23b390394-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378474"
+      },
+      {
+        "amount0In": "199",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.103855640635063161",
+        "id": "0xa791e4e94f291cefef0b943144d4308178a49743ae59fda5aa0e35d06979f203-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378428"
+      },
+      {
+        "amount0In": "31370",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "16.386278679205302057",
+        "id": "0xbfa0309f6a9dcc4ca6408ed4a0a437d2c04ae6d762618df2a50b92c455331c48-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378412"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "2750.419674931273581786",
+        "amount1In": "1.446227126523724294",
+        "amount1Out": "0",
+        "id": "0x4912b29271e85b1d141807aee0ebd9dc8267c84136d51e96168a732df9b4ce60-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378336"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "3613.580564646511091785",
+        "amount1In": "1.900438367474690604",
+        "amount1Out": "0",
+        "id": "0x0fd08b303e990f9c42254aad798ba99bf6d5c3af3f7f0274079105ad05dd79df-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378336"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "43806.528956285471214873",
+        "amount1In": "23.003903142637501142",
+        "amount1Out": "0",
+        "id": "0xec259c6551fb623b1d57edfd9d1e25fa8739a298654d3cfb317328c9d75422cb-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378331"
+      },
+      {
+        "amount0In": "1000",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "0.521345904223491426",
+        "id": "0xf8f61721488b5704a54e083c93ee985ae19525e2c90f7499a467c1e206ee5bf9-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378319"
+      },
+      {
+        "amount0In": "17436.087445541961442642",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "9.094982537540091603",
+        "id": "0xe91d59b837e20fb864d1e20f82e82198588457bb1b011d5a37e2870b3ee997eb-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378319"
+      },
+      {
+        "amount0In": "2874.01540309405765064",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "1.5",
+        "id": "0xf30be9836fdc2e971b273a1139877770eaa953655047ff8d0c79c678e89d11d2-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378284"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "1956.687366507660188418",
+        "amount1In": "1.027411462022234112",
+        "amount1Out": "0",
+        "id": "0xec58a8e5f21bddbc1f547f71f9dd46e5d39607286242e0e5e1f4cdd03ea8a0fd-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378243"
+      },
+      {
+        "amount0In": "22872.151205058990880339",
+        "amount0Out": "0",
+        "amount1In": "0",
+        "amount1Out": "11.944772349768372778",
+        "id": "0x398e1daa4cdd9de6009df5e37c444253fd71e3bbadcb29f22c5f82352ffd2624-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378203"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "1868.736525155523479266",
+        "amount1In": "0.982395485099622692",
+        "amount1Out": "0",
+        "id": "0x13f3049c71708eef5aa40391e8932c2a6871527c78463e6a5ef601c4a8ee3d34-1",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378183"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "190.23353886746119457",
+        "amount1In": "0.1",
+        "amount1Out": "0",
+        "id": "0xcf15efff1e764ee2810aa250128589ae5a3336495e2c7563539525a3be88e9cf-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378166"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "2663.485722926661000605",
+        "amount1In": "1.400000000000000512",
+        "amount1Out": "0",
+        "id": "0xacf31fa45d54b58d132e3e16c1a78179e9e92720a624a350491d0080b570d60b-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378166"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "130.716537865784414115",
+        "amount1In": "0.068702695386067523",
+        "amount1Out": "0",
+        "id": "0x8af361a6437b76830e078cc805a327035490c41b52f7bf66286f14e3bb89659f-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378126"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "1141.630561592227649831",
+        "amount1In": "0.6",
+        "amount1Out": "0",
+        "id": "0x4d273a9db4f31250770403f1c36fd3894863c7d815160f63f64f8daf6819381f-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378125"
+      },
+      {
+        "amount0In": "0",
+        "amount0Out": "75.440141539614158307",
+        "amount1In": "0.03965",
+        "amount1Out": "0",
+        "id": "0x40bde21ef6a86bbf7dc112be6f209fa1b6f1728ff0793bd1ad89eb9f82db9b7d-0",
+        "pair": {
+          "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH"
+          }
+        },
+        "timestamp": "1624378125"
+      }
+    ]
+  }
+}
